@@ -1,2 +1,2 @@
-# Student-performance
-Analysis of higher education student's performance at Near East University
+### Analysis of higher education student's performance at Near East University
+The dataset in this portfolio was collected from surveying 145 students from the Atatürk Faculty of Education and Faculty of Engineering of Near East University students in 2019, sourcing from UCI. This portfolio aims to fathom which factors affect higher education students' performance at Near East University with diverse classification techniques like Logistic Regression and Multi-layer Perceptron. Accuracy, F-score, and Area Under the ROC curve (AUC) were employed to evaluate these models. In terms of model optimisation, GridSearchCV was implemented to detect which configuration of parameters gives the best model performance.
